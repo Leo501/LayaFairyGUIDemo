@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="480,800">
+  <displayList>
+    <image id="n0_m39w" name="n0" src="m39w0" fileName="res/fight1Bg.png" xy="0,0" group="n1_m39w"/>
+    <image id="n2_m39w" name="n2" src="m39w1" fileName="res/wall1_1.png" xy="0,0" group="n1_m39w"/>
+    <image id="n3_m39w" name="n3" src="m39w2" fileName="res/wall1_2.png" xy="376,0" group="n1_m39w"/>
+    <group id="n1_m39w" name="n1" xy="0,0" size="480,1640"/>
+  </displayList>
+</component>

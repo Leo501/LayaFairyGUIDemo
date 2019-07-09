@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="480,800">
+  <displayList>
+    <image id="n0_k1qa" name="n0" src="k1qa22" fileName="res/load_bg.png" xy="0,0"/>
+    <component id="n1_k1qa" name="n1" src="k1qa2c" fileName="StartBtn.xml" xy="132,687">
+      <relation target="n0_k1qa" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n5_zvq9" name="n5" src="k1qa2g" fileName="HelpBtn.xml" xy="405,659" group="n4_k1qa">
+      <relation target="n3_k1qa" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n3_k1qa" name="musicBtn" src="k1qa2d" fileName="MusicBtn.xml" xy="405,728" group="n4_k1qa">
+      <relation target="n0_k1qa" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <group id="n4_k1qa" name="n4" xy="405,659" size="60,125"/>
+  </displayList>
+</component>

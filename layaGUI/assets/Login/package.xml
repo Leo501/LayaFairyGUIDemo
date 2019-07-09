@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7sl9sizv" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="k1qa22" name="load_bg.png" path="/res/"/>
+    <image id="k1qa23" name="help_btn.png" path="/res/"/>
+    <image id="k1qa24" name="music_btn.png" path="/res/"/>
+    <image id="k1qa25" name="option_05.png" path="/res/"/>
+    <image id="k1qa26" name="option_06.png" path="/res/"/>
+    <image id="k1qa27" name="option_07.png" path="/res/"/>
+    <image id="k1qa28" name="option_bg.png" path="/res/"/>
+    <image id="k1qa29" name="start_btn.png" path="/res/"/>
+    <component id="k1qa2a" name="Login.xml" path="/" exported="true"/>
+    <component id="k1qa2c" name="StartBtn.xml" path="/"/>
+    <component id="k1qa2d" name="MusicBtn.xml" path="/"/>
+    <component id="k1qa2g" name="HelpBtn.xml" path="/"/>
+    <component id="zvq92h" name="AudioWin.xml" path="/" exported="true"/>
+    <component id="zvq92i" name="CloseBtn.xml" path="/"/>
+    <component id="zvq92j" name="SwitchBtn.xml" path="/"/>
+  </resources>
+  <publish name="Login"/>
+</packageDescription>

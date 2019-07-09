@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9bp42vzd" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="m39w0" name="fight1Bg.png" path="/res/"/>
+    <image id="m39w1" name="wall1_1.png" path="/res/"/>
+    <image id="m39w2" name="wall1_2.png" path="/res/"/>
+    <component id="m39w3" name="GameBg.xml" path="/"/>
+    <component id="m39w4" name="Game.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Game"/>
+</packageDescription>

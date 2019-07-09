@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="480,800">
+  <displayList>
+    <component id="n0_m39w" name="n0" src="m39w3" fileName="GameBg.xml" xy="0,-420" size="480,1460"/>
+    <component id="n2_m39w" name="n1" src="m39w3" fileName="GameBg.xml" xy="0,1220" size="480,1640"/>
+  </displayList>
+</component>
